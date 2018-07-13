@@ -1,4 +1,4 @@
-# NeoPixel status notifier
+# NeoPixel Status Plugin
  to give feedback trough a NeoPixel ring or strip
 
 Domoticz plugin to send visual feedback from your domotica in to your living room. Connecting this NeoPixel ring to a Raspberry Pi with Domoticz and give visual notifications.
