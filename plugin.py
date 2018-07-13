@@ -3,7 +3,7 @@
 # Author: Richard Fickert
 #
 """
-    <plugin key="NeoPixels" name="NeoPixel Status Plugin" author="Richard Fickert" version="0.1" wikilink="https://github.com/fickertr/Drupal-NeoPixels-Status-Plugin">
+    <plugin key="NeoPixels" name="NeoPixel Status Plugin" author="Richard Fickert" version="0.1" wikilink="https://github.com/fickertr/Domoticz-NeoPixels-Status-Plugin">
     <params>
     <param field="LED_COUNT" label="LED count" width="25px" required="true" default="16"/>
     <param field="LED_PIN" label="GPIO pin" width="25px" required="true" default="18"/>
